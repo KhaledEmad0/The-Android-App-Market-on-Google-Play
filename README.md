@@ -10,12 +10,12 @@ Raw data? Extracted gold from the Google Play website through some savvy web scr
 **1. Data Exploration:**
 - Dived deep into the data ocean.
 
-**Data Cleaning:**
+**2. Data Cleaning:**
 - 🧹 Removed duplicated rows.
 - ✂️ Cleaned out symbols like (+, $, /).
 - 🔢 Converted numeric columns to sleek float data types.
 
-**EDA Process (Exploratory Data Analysis):**
+**3. EDA Process (Exploratory Data Analysis):**
 - 📊 Which category rules the (active) app realm?
 - 🏆 Is there a reigning champion category in the market?
 - 📉 What categories are the underdogs?
@@ -25,6 +25,6 @@ Raw data? Extracted gold from the Google Play website through some savvy web scr
 - 💰 Free or paid? Unveiled the popularity dynamics.
 - 📣 User reviews sentiment? Analyzed the vibes.
 
-**Data Visualization:**
+**4. Data Visualization:**
 - 📈 Leveraged Matplotlib, Seaborn, and Plotly for captivating visualizations.
 - 📊 Explored data aesthetics with Histograms, Box Plots, and Joint Plots.
