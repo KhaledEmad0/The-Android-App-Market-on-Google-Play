@@ -7,8 +7,8 @@ Explored the expansive Android app market, comparing over 10k apps across divers
 Sought game-changing insights to fuel growth and retention strategies.
 Raw data? Extracted gold from the Google Play website through some savvy web scraping!
 # 💡 4 Project Phases:
-**Data Exploration:**
-Dived deep into the data ocean.
+1. **Data Exploration:**
+- Dived deep into the data ocean.
 
 **Data Cleaning:**
 - 🧹 Removed duplicated rows.
