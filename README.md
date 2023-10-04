@@ -11,9 +11,9 @@ Raw data? Extracted gold from the Google Play website through some savvy web scr
 Dived deep into the data ocean.
 
 **Data Cleaning:**
-🧹 Removed duplicated rows.
-✂️ Cleaned out symbols like (+, $, /).
-🔢 Converted numeric columns to sleek float data types.
+- 🧹 Removed duplicated rows.
+- ✂️ Cleaned out symbols like (+, $, /).
+- 🔢 Converted numeric columns to sleek float data types.
 
 **EDA Process (Exploratory Data Analysis):**
 📊 Which category rules the (active) app realm?
