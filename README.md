@@ -16,15 +16,15 @@ Dived deep into the data ocean.
 - 🔢 Converted numeric columns to sleek float data types.
 
 **EDA Process (Exploratory Data Analysis):**
-📊 Which category rules the (active) app realm?
-🏆 Is there a reigning champion category in the market?
-📉 What categories are the underdogs?
-📏 Size matters? Explored the impact of app size on ratings.
-⚙️ System-heavy or light? Unraveled user preferences.
-💸 Does an app's price sway its rating?
-💰 Free or paid? Unveiled the popularity dynamics.
-📣 User reviews sentiment? Analyzed the vibes.
+- 📊 Which category rules the (active) app realm?
+- 🏆 Is there a reigning champion category in the market?
+- 📉 What categories are the underdogs?
+- 📏 Size matters? Explored the impact of app size on ratings.
+- ⚙️ System-heavy or light? Unraveled user preferences.
+- 💸 Does an app's price sway its rating?
+- 💰 Free or paid? Unveiled the popularity dynamics.
+- 📣 User reviews sentiment? Analyzed the vibes.
 
 **Data Visualization:**
-📈 Leveraged Matplotlib, Seaborn, and Plotly for captivating visualizations.
-📊 Explored data aesthetics with Histograms, Box Plots, and Joint Plots.
+- 📈 Leveraged Matplotlib, Seaborn, and Plotly for captivating visualizations.
+- 📊 Explored data aesthetics with Histograms, Box Plots, and Joint Plots.
