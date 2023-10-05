@@ -29,7 +29,7 @@ Raw data? Extracted gold from the Google Play website through some savvy web scr
 - 📈 Leveraged Matplotlib, Seaborn, and Plotly for captivating visualizations.
 - 📊 Explored data aesthetics with Histograms, Box Plots, and Joint Plots.
 
-  # Conclusion
+# Conclusion
 1. Family and game apps are super popular, but surprisingly, tools, business, and medical apps are also big hits.
 
 2. On average, all types of apps get a rating of 4.17. Most apps score high, with just a few low-rated ones, as shown in the left-leaning histogram.
