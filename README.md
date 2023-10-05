@@ -28,3 +28,17 @@ Raw data? Extracted gold from the Google Play website through some savvy web scr
 **4. Data Visualization:**
 - 📈 Leveraged Matplotlib, Seaborn, and Plotly for captivating visualizations.
 - 📊 Explored data aesthetics with Histograms, Box Plots, and Joint Plots.
+
+  # Conclusion
+1. Family and game apps are super popular, but surprisingly, tools, business, and medical apps are also big hits.
+
+2. On average, all types of apps get a rating of 4.17. Most apps score high, with just a few low-rated ones, as shown in the left-leaning histogram.
+
+3. The best-rated apps (rating over 4) usually have sizes between 2 MB and 20 MB. Also, most apps keep their prices under $10.
+
+4. Medical and family apps tend to be the priciest, with some medical apps going up to a whopping $80! Game apps, on the other hand, stay reasonable, mostly below $20.
+
+5. Surprisingly, paid apps don't get installed as much as free ones. The difference isn't huge, though.
+
+6. Free apps get a lot of negative comments, seen in the outliers on the negative side. Paid apps, on the other hand, never get extremely negative reviews. This might suggest that, on average, paid apps are of 
+   higher quality than free ones. The median polarity score for paid apps is a bit higher than for free apps, supporting our earlier observation.
